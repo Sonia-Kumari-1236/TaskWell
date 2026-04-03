@@ -1,9 +1,7 @@
 # Taskwell — Task Management 
 ##  Live Demo
 
-| | URL |
-|---|---|
-|task-well-rho.vercel.app|
+| URL - task-well-rho.vercel.app|
 
 ---
 ### Track A: Full-Stack Engineer Assessment
